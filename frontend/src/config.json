@@ -1,0 +1,4 @@
+{
+    "columns": [{"label":"Report Type", "key": "report_type"}, {"label":"Date", "key": "date"}, {"label": "Amount", "key": "amount"}, {"label":"Region", "key": "region"}]
+}
+  
